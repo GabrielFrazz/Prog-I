@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666189189 source:c:\users\bielf\onedrive\documents\blocks\testes\exercicio35-ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

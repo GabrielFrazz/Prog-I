@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663940354 source:c:\users\bielf\onedrive\documents\blocks\exercicio22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1665324172 source:c:\users\bielf\onedrive\documents\blocks\lista 2\exercicio22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
